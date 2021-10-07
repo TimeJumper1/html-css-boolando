@@ -1,0 +1,50 @@
+/* reset */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+/* common */
+.container{
+    margin: 8%;
+    /* test */
+    height: 900px;
+    width: auto;
+    background-color: aqua;
+}
+.row{
+    /* test */
+    height: 400px;
+    background-color: blueviolet;
+    width: auto;
+}
+.position{
+    position: relative;
+    /* test */
+    width: 30%;
+    height: 300px;
+}
+.img{
+    height: 300px;
+    width: 100%;
+    /* test */
+    background-color: red;
+}
+.heart{
+    height: 40px;
+    width: 40px;
+    position: absolute;
+    top: 17px;
+    right: 0;
+    /* test */
+    background-color: cornsilk;
+}
+.sale{
+    position: absolute;
+    bottom: 20px;
+    left: 0;
+    /* test */
+    height: 30px;
+    width: 30px;
+    background-color: white;
+}
