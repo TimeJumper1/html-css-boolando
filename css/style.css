@@ -13,9 +13,12 @@
     margin: 30px;
    
 }
+.spazio{
+    display: inline-block;
+}
 .position{
     position: relative;
-    width: 30%;
+    width: 400px;
     height: auto;
     
    
