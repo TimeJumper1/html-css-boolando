@@ -7,7 +7,8 @@
 /* common */
 .container{
     text-align: center;
-    margin: 3%;
+    margin: auto;
+    width: 90%;
 }
 /* riga */
 .row{
