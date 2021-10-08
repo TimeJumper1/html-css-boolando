@@ -6,6 +6,7 @@
 }
 /* common */
 .container{
+    text-align: center;
     margin: 3%;
 }
 /* riga */
@@ -80,9 +81,11 @@
 /* posizione del div testo */
 .testo{
     position: relative;
+    text-align: left;
 }
 /* prima riga di informazioni capo */
 .prima-riga{
+    
 
 }
 /* seconda riga di informazioni capo */
